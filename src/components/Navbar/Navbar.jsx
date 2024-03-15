@@ -1,4 +1,3 @@
-import LoupeIcon from '../Icons/LoupeIcon';
 import LogoSN from '../../components/LogoSN/LogoSN';
 import WhiteLine from '../WhiteLine/WhiteLine';
 import LoupeContainer from '../LoupeContainer/LoupeContainer';
